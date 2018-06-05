@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProgramPractice.Basic
 {
-    class HelloWorld
+     class Parent
     {
-        //static void Main()
-        //{
-        //    Console.WriteLine("Hello World");
-        //}
+        protected Parent()
+        {
+            Console.WriteLine("Parent Class Constructor...");
+        }
     }
 }
