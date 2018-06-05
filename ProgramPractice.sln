@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramPractice", "ProgramPractice\ProgramPractice.csproj", "{84772BCD-88C6-447E-AA63-0D6202D40CE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnectionTest", "DatabaseConnectionTest\DatabaseConnectionTest.csproj", "{A8A0751B-D674-4CB0-9D62-081B0332EDE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{84772BCD-88C6-447E-AA63-0D6202D40CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84772BCD-88C6-447E-AA63-0D6202D40CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84772BCD-88C6-447E-AA63-0D6202D40CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A0751B-D674-4CB0-9D62-081B0332EDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A0751B-D674-4CB0-9D62-081B0332EDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A0751B-D674-4CB0-9D62-081B0332EDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A0751B-D674-4CB0-9D62-081B0332EDE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProgramPractice.Basic
+namespace DatabaseConnectionTest
 {
-     class Parent
+    class Program
     {
-        internal Parent()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Parent Class Constructor...");
         }
     }
 }

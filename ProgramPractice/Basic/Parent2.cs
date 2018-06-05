@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProgramPractice.Basic
 {
-     class Parent
+    class Parent2
     {
-        internal Parent()
+        protected Parent2()
         {
-            Console.WriteLine("Parent Class Constructor...");
+            Console.WriteLine("Parent2 Class Constructor...");
         }
     }
 }
