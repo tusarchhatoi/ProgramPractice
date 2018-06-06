@@ -62,11 +62,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Basic\AbstractDemo.cs" />
-    <Compile Include="Basic\Parent.cs" />
-    <Compile Include="Basic\Parent2.cs" />
-    <Compile Include="Basic\ParentInterface.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Inheritance\AbstractDemo.cs" />
+    <Compile Include="Inheritance\Parent.cs" />
+    <Compile Include="Inheritance\Parent2.cs" />
+    <Compile Include="Inheritance\ParentInterface.cs" />
+    <Compile Include="Inheritance\SealedClass.cs" />
+    <Compile Include="Inheritance\SealedMethod.cs" />
+    <Compile Include="Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramPractice", "ProgramPractice\ProgramPractice.csproj", "{84772BCD-88C6-447E-AA63-0D6202D40CE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceTest", "ProgramPractice\InheritanceTest.csproj", "{84772BCD-88C6-447E-AA63-0D6202D40CE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnectionTest", "DatabaseConnectionTest\DatabaseConnectionTest.csproj", "{A8A0751B-D674-4CB0-9D62-081B0332EDE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPractice", "Thread\ThreadPractice.csproj", "{C0793B21-3E88-4C44-8C50-187E41F5F00D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTest", "Thread\ThreadTest.csproj", "{C0793B21-3E88-4C44-8C50-187E41F5F00D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
